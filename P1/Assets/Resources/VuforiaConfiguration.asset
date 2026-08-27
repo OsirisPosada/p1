@@ -46,8 +46,8 @@ MonoBehaviour:
     autoImportArcore: 1
     thirdPartyARCoreClientDetected: 0
   playmode:
-    mRecordingPath: C:/Users/MULTIMEDIA/Downloads/0 6 - GRABACIONES/0 6 - GRABACIONES/02
-      - Multi Target.mp4
+    mRecordingPath: C:/Users/MULTIMEDIA/Documents/Estudiante/JesusMau-web-JMaury-AR-P01-PPA/Assets/0
+      6 - GRABACIONES/0 6 - GRABACIONES/03 - Cilinder Target - B.mp4
     playModeType: 2
     mSimulatorInputActionAsset: {fileID: -944628639613478452, guid: eae7022f5cfd04e8189b1f372421b225, type: 3}
   webcam:

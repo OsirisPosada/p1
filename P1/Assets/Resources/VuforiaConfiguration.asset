@@ -18,7 +18,7 @@ MonoBehaviour:
     delayedInitialization: 0
     cameraFocusModeSetting: 2
     cameraDeviceModeSetting: -1
-    maxSimultaneousImageTargets: 1
+    maxSimultaneousImageTargets: 10
     virtualSceneScaleFactor: 1
     modelTargetRecoWhileExtendedTracked: 1
     shareRecordingsInITunes: 0
@@ -46,8 +46,8 @@ MonoBehaviour:
     autoImportArcore: 1
     thirdPartyARCoreClientDetected: 0
   playmode:
-    mRecordingPath: C:/Users/MULTIMEDIA/Downloads/0 6 - GRABACIONES/0 6 - GRABACIONES/01
-      - Image Target.mp4
+    mRecordingPath: C:/Users/MULTIMEDIA/Downloads/0 6 - GRABACIONES/0 6 - GRABACIONES/02
+      - Multi Target.mp4
     playModeType: 2
     mSimulatorInputActionAsset: {fileID: -944628639613478452, guid: eae7022f5cfd04e8189b1f372421b225, type: 3}
   webcam:

@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Escenas/00 - Menu Principal.unity
+    guid: 1ea0f7525a436f041b1669f2e0da65ef
+  - enabled: 1
+    path: Assets/Escenas/01 - Image Target.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Escenas/02 - Multitarget.unity
+    guid: d753dcdd1aeba6545a2ebfcb629193f3
+  - enabled: 1
+    path: Assets/Escenas/03 - Cylinder Target.unity
+    guid: 9318f0305f202b641871cecc6fd90a1e
+  - enabled: 1
+    path: Assets/Escenas/08 - Ground Plane.unity
+    guid: 97863171c02be7f4d85e79e69fdef9e4
   m_configObjects: {}

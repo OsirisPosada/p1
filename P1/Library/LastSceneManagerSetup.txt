@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/03 - Cylinder Target.unity
+- path: Assets/Escenas/00 - Menu Principal.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

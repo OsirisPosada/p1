@@ -1142,7 +1142,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: 05 - Barcode
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &504887951
@@ -2423,7 +2423,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: 04 - Cloud Recognition
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &966849915
@@ -3194,7 +3194,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: 09 - Mid Air
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1793692532

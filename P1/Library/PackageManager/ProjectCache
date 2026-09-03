@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639238164939440202
+      ticks: 639239891258190173
     m_Hash: 320099795
   m_LockFileStatus:
     m_FilePath: C:/Users/MULTIMEDIA/Desktop/Pruebas Github/p1/P1/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639238164939445648
+      ticks: 639239891258190173
     m_Hash: 2931219443
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -31,7 +31,7 @@ m_LocalPackages:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639238165696499490
+      ticks: 639239891541805768
     m_Hash: 718109198
 m_ProjectPath: C:/Users/MULTIMEDIA/Desktop/Pruebas Github/p1/P1/Packages
 m_EditorVersion: 2022.3.16f1 (d2c21f0ef2f1)

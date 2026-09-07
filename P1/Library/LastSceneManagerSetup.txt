@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Escenas/04 - Cloud Recognition.unity
+- path: Assets/Escenas/05 - Barcode.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

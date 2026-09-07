@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 2e6ec71337fd994479f6a722f0f3d2e7
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BonnieBody
+    second: {fileID: 2100000, guid: 173cdde78973d6f498e0f68f5b09d809, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BonnieGLOW
+    second: {fileID: 2100000, guid: 2dd9d59b912d39640b511ba671e6dc98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BonnieParts
+    second: {fileID: 2100000, guid: 220076b98ace4664b9b200a181a26689, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BonnieSkeleton
+    second: {fileID: 2100000, guid: 827b3c839f12fb647b92bb038dd5be6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BonnyHead
+    second: {fileID: 2100000, guid: b69af1808b2080948a11397460303888, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChicaBeak
+    second: {fileID: 2100000, guid: 7bc68eef252618147ac6efad23c74d58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChicaBody
+    second: {fileID: 2100000, guid: ea05776a9dbc8664d961e8c01af3ed5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChicaHead
+    second: {fileID: 2100000, guid: 068a40cc34d41224ea1c7a5a214e16d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChicaParts
+    second: {fileID: 2100000, guid: 8292a76e56d55e045a19665fa31672e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChicaSkeleton
+    second: {fileID: 2100000, guid: d67a25efa8118b247be2447ec3cd69b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChicaThing
+    second: {fileID: 2100000, guid: 877cd21d2d7fa7e4fa09dacd72d5513d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark
+    second: {fileID: 2100000, guid: 5dee9e76b007c4b4585635f98487cef8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_0
+    second: {fileID: 2100000, guid: 6c2a9f555fad5e44db31aa3487bfbf6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Endo_1
+    second: {fileID: 2100000, guid: fabe79edfada3914fb65c255cf95582b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Endo_2
+    second: {fileID: 2100000, guid: 562454b65c4c5434191a57f19c5f4fdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeGlow.001
+    second: {fileID: 2100000, guid: 9e76a6bd03b703c429ed739f47c54a26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeGlow.002
+    second: {fileID: 2100000, guid: 33dffc70bc458754fb98e22c7ce99755, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FBodyparts
+    second: {fileID: 2100000, guid: eff826c8a7e74ea4f9ef3124488a0c7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FHead
+    second: {fileID: 2100000, guid: d795019b0491f8e4b87a77f534cf60ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FLightup
+    second: {fileID: 2100000, guid: 7de6bf433be21524881e99b964ec53be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FOXYBODY
+    second: {fileID: 2100000, guid: 11d669477012952418efa005eda1ac3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FOXYSKIN
+    second: {fileID: 2100000, guid: 16366e198ce872d4bac05d4107646ce7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FOther
+    second: {fileID: 2100000, guid: 6f64180f7e36d0a42a1c117d2da13282, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FSkeleton
+    second: {fileID: 2100000, guid: 3ff8109e616ee3e4eb75e91d4ad4c3c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FSkeleton.001
+    second: {fileID: 2100000, guid: 99784d0d15acae84db0ffd8e78defe2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FTorso
+    second: {fileID: 2100000, guid: dfabc49a0cafc104197d83d11d60f39e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Foxy_Skeleton.001
+    second: {fileID: 2100000, guid: fbcb8f6deda9871418ac94674ba447fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light
+    second: {fileID: 2100000, guid: d26ca97a4a1ad8240a0d26391e3936a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: cdf3e7488b19a074aa3a3530f84fbc0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 7c09af49b2663574e97ca5ffeae20d88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 04763a7641887d4439886717bbc02540, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_25
+    second: {fileID: 2100000, guid: b1ddbde61516ddf459c6822578a433d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Phantom_Freddy_1
+    second: {fileID: 2100000, guid: 401403ea3aed95746b9ca0e544819ac4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Phantom_Freddy_1_0
+    second: {fileID: 2100000, guid: 84bca5f16bb25db4f89f24e20a59afaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Phantom_Freddy_2
+    second: {fileID: 2100000, guid: 9e94d01ca3381f44db645e116379b099, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Phantom_Teeth
+    second: {fileID: 2100000, guid: 07c7569d900a6d64b87531f554706685, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire_1
+    second: {fileID: 2100000, guid: c1f480a46ac029c4297fbff55d905bf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire_2
+    second: {fileID: 2100000, guid: 3f70fd6f4d54e574c8ee7cdc769c283f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire_3
+    second: {fileID: 2100000, guid: 253858d123441ab459484352403a3d4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: 4f353657a0c12c442a40a31053e1353d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Foxy_Body
+    second: {fileID: 2100000, guid: 2eb0b3aad21552648bffbcbc9db5f612, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Foxy_Eyes
+    second: {fileID: 2100000, guid: 16b1aa3ee34f7a14a99c1b959b8c8e2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Foxy_Head
+    second: {fileID: 2100000, guid: 0a8b7196670e0f64fb7d41208fad0ca8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Foxy_Parts
+    second: {fileID: 2100000, guid: c109b6ae9529f6a48a18e1b83cb76f79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Foxy_Skeleton
+    second: {fileID: 2100000, guid: c4a4f98a645cd7e47922bb12854f1e80, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

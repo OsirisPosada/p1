@@ -29,4 +29,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Escenas/04 - Cloud Recognition.unity
     guid: ef6f352b2c510164cbf7e22a79bbfa09
+  - enabled: 1
+    path: Assets/Escenas/07 - VuMarks.unity
+    guid: 11ca0f4e2acc2804dbba01b84877c772
+  - enabled: 1
+    path: Assets/Escenas/10 - Area Target.unity
+    guid: a4d0aa651ccf7d0498dfd60d56667b44
+  - enabled: 1
+    path: Assets/Escenas/06 - Model Target.unity
+    guid: be049b12b21658541ad9d2b1fb1fb795
   m_configObjects: {}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-5.0456 -1.9093 -13.5601 13.6787 4.1461 10.8636" area="48" targetId="48474597860445508c67f7b5cc7d0e6e" name="SalaIngenieriaCreativa" pathAuthoring="48474597860445508c67f7b5cc7d0e6e_authoring.glb" pathOcclusion="48474597860445508c67f7b5cc7d0e6e_occlusion.3dt" pathNavMesh="48474597860445508c67f7b5cc7d0e6e_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

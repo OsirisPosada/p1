@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="0.1801 -1.4253 2.1489 3.6608 1.9687 6.6579" area="5" targetId="354850895c5a4adea6aedfa45cd5a5a8" name="DIM_AIRE" pathAuthoring="354850895c5a4adea6aedfa45cd5a5a8_authoring.glb" pathOcclusion="354850895c5a4adea6aedfa45cd5a5a8_occlusion.3dt" pathNavMesh="354850895c5a4adea6aedfa45cd5a5a8_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

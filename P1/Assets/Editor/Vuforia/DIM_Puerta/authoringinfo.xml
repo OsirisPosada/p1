@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="3.3883 -2.1196 -5.5611 5.6990 1.9762 -2.9484" area="4" targetId="00472e51b58e45b6821f8726ae60461f" name="DIM_Puerta" pathAuthoring="00472e51b58e45b6821f8726ae60461f_authoring.glb" pathOcclusion="00472e51b58e45b6821f8726ae60461f_occlusion.3dt" pathNavMesh="00472e51b58e45b6821f8726ae60461f_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

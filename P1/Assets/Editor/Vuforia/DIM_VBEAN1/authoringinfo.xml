@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-4.4104 -1.1268 -4.2044 2.5604 2.3087 3.4928" area="3" targetId="da4f6d85764e4aa5b46bc25cfdc84063" name="DIM_VBEAN1" pathAuthoring="da4f6d85764e4aa5b46bc25cfdc84063_authoring.glb" pathOcclusion="da4f6d85764e4aa5b46bc25cfdc84063_occlusion.3dt" pathNavMesh="da4f6d85764e4aa5b46bc25cfdc84063_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

@@ -252,7 +252,7 @@ Transform:
   m_GameObject: {fileID: 627313681}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -1.701, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -342,13 +342,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Astronaut
+  mTrackableName: freddy
   mInitializedInEditor: 1
-  mDataSetPath: Vuforia/VuforiaMars_Images.xml
-  mAspectRatio: 1.7272727
+  mDataSetPath: Vuforia/image_target.xml
+  mAspectRatio: 1
   mImageTargetType: 0
-  mWidth: 0.06985
-  mHeight: 0.12065
+  mWidth: 1
+  mHeight: 1
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -368,8 +368,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 627313685}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Astronaut
-  mDatasetName: Vuforia/VuforiaMars_Images.xml
+  mTargetName: freddy
+  mDatasetName: Vuforia/image_target.xml
   mCastedBehaviour: {fileID: 627313685}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
@@ -615,7 +615,7 @@ Transform:
   m_GameObject: {fileID: 812629900}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.3, y: 0, z: 0}
+  m_LocalPosition: {x: 1.586, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -705,13 +705,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Oxygen
+  mTrackableName: foxy
   mInitializedInEditor: 1
-  mDataSetPath: Vuforia/VuforiaMars_Images.xml
-  mAspectRatio: 1.7272727
+  mDataSetPath: Vuforia/image_target.xml
+  mAspectRatio: 1
   mImageTargetType: 0
-  mWidth: 0.06985
-  mHeight: 0.12065
+  mWidth: 1
+  mHeight: 1
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -731,8 +731,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 812629904}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Oxygen
-  mDatasetName: Vuforia/VuforiaMars_Images.xml
+  mTargetName: foxy
+  mDatasetName: Vuforia/image_target.xml
   mCastedBehaviour: {fileID: 812629904}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
@@ -821,7 +821,7 @@ Transform:
   m_GameObject: {fileID: 1030119998}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.1, y: 0, z: 0}
+  m_LocalPosition: {x: -0.576, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -911,13 +911,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Drone
+  mTrackableName: bonnie
   mInitializedInEditor: 1
-  mDataSetPath: Vuforia/VuforiaMars_Images.xml
-  mAspectRatio: 1.7272727
+  mDataSetPath: Vuforia/image_target.xml
+  mAspectRatio: 1
   mImageTargetType: 0
-  mWidth: 0.06985
-  mHeight: 0.12065
+  mWidth: 1
+  mHeight: 1
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -937,8 +937,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1030120002}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Drone
-  mDatasetName: Vuforia/VuforiaMars_Images.xml
+  mTargetName: bonnie
+  mDatasetName: Vuforia/image_target.xml
   mCastedBehaviour: {fileID: 1030120002}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
@@ -1084,7 +1084,7 @@ Transform:
   m_GameObject: {fileID: 1654960023}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.2, y: 0, z: 0}
+  m_LocalPosition: {x: 0.485, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1174,13 +1174,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Fissure
+  mTrackableName: chica
   mInitializedInEditor: 1
-  mDataSetPath: Vuforia/VuforiaMars_Images.xml
-  mAspectRatio: 1.7272727
+  mDataSetPath: Vuforia/image_target.xml
+  mAspectRatio: 1
   mImageTargetType: 0
-  mWidth: 0.06985
-  mHeight: 0.12065
+  mWidth: 1
+  mHeight: 1
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -1200,8 +1200,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1654960027}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Fissure
-  mDatasetName: Vuforia/VuforiaMars_Images.xml
+  mTargetName: chica
+  mDatasetName: Vuforia/image_target.xml
   mCastedBehaviour: {fileID: 1654960027}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
@@ -1402,8 +1402,20 @@ PrefabInstance:
       value: Bonnie
       objectReference: {fileID: 0}
     - target: {fileID: 3162582409994108978, guid: aa54f5921b8a4a743abddf5aa88e7a48, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3162582409994108978, guid: aa54f5921b8a4a743abddf5aa88e7a48, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3162582409994108978, guid: aa54f5921b8a4a743abddf5aa88e7a48, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3162582409994108978, guid: aa54f5921b8a4a743abddf5aa88e7a48, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.0031
+      value: 0.0031000003
       objectReference: {fileID: 0}
     - target: {fileID: 3162582409994108978, guid: aa54f5921b8a4a743abddf5aa88e7a48, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1419,7 +1431,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3162582409994108978, guid: aa54f5921b8a4a743abddf5aa88e7a48, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3162582409994108978, guid: aa54f5921b8a4a743abddf5aa88e7a48, type: 3}
       propertyPath: m_LocalRotation.y
@@ -1459,6 +1471,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1654960024}
     m_Modifications:
+    - target: {fileID: 5962414707531243423, guid: 60a163c001026c6488cd784a89643ca8, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5962414707531243423, guid: 60a163c001026c6488cd784a89643ca8, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5962414707531243423, guid: 60a163c001026c6488cd784a89643ca8, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5962414707531243423, guid: 60a163c001026c6488cd784a89643ca8, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.00050000846
@@ -1568,6 +1592,18 @@ PrefabInstance:
     m_TransformParent: {fileID: 812629901}
     m_Modifications:
     - target: {fileID: 3908716638843766550, guid: 2275d80e56da4d7419e4009a6f33badd, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3908716638843766550, guid: 2275d80e56da4d7419e4009a6f33badd, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3908716638843766550, guid: 2275d80e56da4d7419e4009a6f33badd, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3908716638843766550, guid: 2275d80e56da4d7419e4009a6f33badd, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.00080001354
       objectReference: {fileID: 0}
@@ -1577,7 +1613,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3908716638843766550, guid: 2275d80e56da4d7419e4009a6f33badd, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.004
+      value: -0.0062
       objectReference: {fileID: 0}
     - target: {fileID: 3908716638843766550, guid: 2275d80e56da4d7419e4009a6f33badd, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1966,11 +2002,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4836678461076636087, guid: 46a6e55927112d149b58dfda0f97459a, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.13395202
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4836678461076636087, guid: 46a6e55927112d149b58dfda0f97459a, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.133952
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4836678461076636087, guid: 46a6e55927112d149b58dfda0f97459a, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4836678461076636087, guid: 46a6e55927112d149b58dfda0f97459a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1978,11 +2018,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4836678461076636087, guid: 46a6e55927112d149b58dfda0f97459a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.0535
+      value: 0.378
       objectReference: {fileID: 0}
     - target: {fileID: 4836678461076636087, guid: 46a6e55927112d149b58dfda0f97459a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.0089
+      value: -0.009
       objectReference: {fileID: 0}
     - target: {fileID: 4836678461076636087, guid: 46a6e55927112d149b58dfda0f97459a, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1990,7 +2030,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4836678461076636087, guid: 46a6e55927112d149b58dfda0f97459a, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4836678461076636087, guid: 46a6e55927112d149b58dfda0f97459a, type: 3}
       propertyPath: m_LocalRotation.y

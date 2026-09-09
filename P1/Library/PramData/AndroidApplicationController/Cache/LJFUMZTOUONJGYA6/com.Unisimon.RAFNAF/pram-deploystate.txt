@@ -1,16 +1,16 @@
-assets/bin/Data/boot.config:333-639245796253188105
-assets/bin/Data/data.unity3d:79080049-639245796251906604
+assets/bin/Data/boot.config:333-639245823295649905
+assets/bin/Data/data.unity3d:79084801-639245823294380164
 assets/bin/Data/Managed/Metadata/global-metadata.dat:7598896-639245282128410732
 assets/bin/Data/Managed/Resources/mscorlib.dll-resources.dat:337563-639245282128350386
 assets/bin/Data/Managed/Resources/Newtonsoft.Json.dll-resources.dat:900-639245282128410732
 assets/bin/Data/Managed/Resources/System.Data.dll-resources.dat:93718-639245282128330396
 assets/bin/Data/RuntimeInitializeOnLoads.json:920-639245211884114690
 assets/bin/Data/ScriptingAssemblies.json:2835-639245211884114690
-assets/bin/Data/sharedassets0.resource:1699168-639245796251635611
-assets/bin/Data/sharedassets1.resource:9011136-639245796251545315
-assets/bin/Data/sharedassets6.resource:8064-639245796251510127
+assets/bin/Data/sharedassets0.resource:1699168-639245823294112634
+assets/bin/Data/sharedassets1.resource:9011136-639245823294127734
+assets/bin/Data/sharedassets6.resource:8064-639245823294081041
 assets/bin/Data/unity default resources:1110848-639245211882672904
-assets/bin/Data/unity_app_guid:36-639245796254370954
+assets/bin/Data/unity_app_guid:36-639245823296820955
 assets/Vuforia/DIM_AIRE.dat:284327-639245211884008830
 assets/Vuforia/DIM_AIRE.xml:133-639245211883938038
 assets/Vuforia/DIM_Puerta.dat:117285-639245211883993644

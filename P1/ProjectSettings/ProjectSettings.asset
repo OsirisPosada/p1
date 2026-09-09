@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: Unisimon
-  productName: Proyecto1
+  productName: RA FNAF
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -42,11 +42,11 @@ PlayerSettings:
   m_SplashScreenLogos:
   - logo: {fileID: 10404, guid: 0000000000000000f000000000000000, type: 0}
     duration: 2
-  - logo: {fileID: 21300000, guid: 21e40294d15c0a041b31523cc6d6c623, type: 3}
+  - logo: {fileID: 21300000, guid: 777eefbfb8e09d54b87fd5eff428be85, type: 3}
     duration: 2
-  - logo: {fileID: 21300000, guid: c3cbc504f9e25fc4193ab4c37e6ca806, type: 3}
+  - logo: {fileID: 21300000, guid: 80fbbc867e935dd439105401dc3b78a4, type: 3}
     duration: 2
-  - logo: {fileID: 21300000, guid: 61d676d8850e6c74da542bb613f7540c, type: 3}
+  - logo: {fileID: 21300000, guid: 910ddba419f2f3c48a080da0530f88a2, type: 3}
     duration: 4
   m_VirtualRealitySplashScreen: {fileID: 0}
   m_HolographicTrackingLossScreen: {fileID: 0}
@@ -166,7 +166,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.Unisimon.Proyecto1
+    Android: com.Unisimon.RAFNAF
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -291,7 +291,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 9a33f638c14085048bddf6ac21552c04, type: 3}
+      m_Icon: {fileID: 2800000, guid: 910ddba419f2f3c48a080da0530f88a2, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0

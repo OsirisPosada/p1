@@ -9,14 +9,56 @@
         "name": "Animation",
         "dependencies": [
           {
+            "name": "AnimationClip",
+            "scenes": [
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
+            ],
+            "dependencyType": 0,
+            "icon": null
+          },
+          {
             "name": "Animator",
-            "scenes": [],
+            "scenes": [
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "AnimatorController",
-            "scenes": [],
+            "scenes": [
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
+            ],
             "dependencyType": 1,
             "icon": null
           },
@@ -24,6 +66,12 @@
             "name": "AnimatorOverrideController",
             "scenes": [],
             "dependencyType": 0,
+            "icon": null
+          },
+          {
+            "name": "Motion",
+            "scenes": [],
+            "dependencyType": 1,
             "icon": null
           },
           {
@@ -40,21 +88,53 @@
           {
             "name": "AudioBehaviour",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
             ],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "AudioClip",
-            "scenes": [],
+            "scenes": [
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "AudioListener",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -66,6 +146,24 @@
             "icon": null
           },
           {
+            "name": "AudioSource",
+            "scenes": [
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
+            ],
+            "dependencyType": 0,
+            "icon": null
+          },
+          {
             "name": "BaseVideoTexture",
             "scenes": [],
             "dependencyType": 1,
@@ -73,7 +171,19 @@
           },
           {
             "name": "SampleClip",
-            "scenes": [],
+            "scenes": [
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
+            ],
             "dependencyType": 1,
             "icon": null
           },
@@ -103,7 +213,17 @@
           {
             "name": "Camera",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -123,7 +243,17 @@
           {
             "name": "Cubemap",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -143,7 +273,17 @@
           {
             "name": "EditorExtension",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -157,7 +297,17 @@
           {
             "name": "GameObject",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -183,7 +333,17 @@
           {
             "name": "LevelGameManager",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -191,7 +351,17 @@
           {
             "name": "Light",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -211,7 +381,17 @@
           {
             "name": "LightmapSettings",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -225,7 +405,17 @@
           {
             "name": "Material",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -233,7 +423,16 @@
           {
             "name": "Mesh",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -241,7 +440,12 @@
           {
             "name": "MeshFilter",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -249,7 +453,12 @@
           {
             "name": "MeshRenderer",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -257,7 +466,17 @@
           {
             "name": "MonoBehaviour",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -271,7 +490,17 @@
           {
             "name": "MonoScript",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -279,7 +508,17 @@
           {
             "name": "NamedObject",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -311,7 +550,17 @@
           {
             "name": "RectTransform",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -325,7 +574,17 @@
           {
             "name": "RenderSettings",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -357,7 +616,17 @@
           {
             "name": "Shader",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -369,6 +638,19 @@
             "icon": null
           },
           {
+            "name": "SkinnedMeshRenderer",
+            "scenes": [
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity"
+            ],
+            "dependencyType": 0,
+            "icon": null
+          },
+          {
             "name": "SortingGroup",
             "scenes": [],
             "dependencyType": 0,
@@ -377,7 +659,17 @@
           {
             "name": "Sprite",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -649,30 +941,22 @@
         "dependencies": [
           {
             "name": "BoxCollider",
-            "scenes": [
-              "Assets/P1.unity"
-            ],
-            "dependencyType": 0,
-            "icon": null
-          },
-          {
-            "name": "CapsuleCollider",
-            "scenes": [
-              "Assets/P1.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "Collider",
-            "scenes": [],
-            "dependencyType": 1,
+            "scenes": [
+              "Assets/Escenas/00 - Menu Principal.unity"
+            ],
+            "dependencyType": 0,
             "icon": null
           },
           {
             "name": "MeshCollider",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -684,10 +968,8 @@
             "icon": null
           },
           {
-            "name": "SphereCollider",
-            "scenes": [
-              "Assets/P1.unity"
-            ],
+            "name": "Rigidbody",
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
@@ -907,8 +1189,14 @@
           {
             "name": "Font",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity"
             ],
+            "dependencyType": 0,
+            "icon": null
+          },
+          {
+            "name": "TextMesh",
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
@@ -950,7 +1238,17 @@
           {
             "name": "Canvas",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -958,7 +1256,7 @@
           {
             "name": "CanvasGroup",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -966,7 +1264,17 @@
           {
             "name": "CanvasRenderer",
             "scenes": [
-              "Assets/P1.unity"
+              "Assets/Escenas/00 - Menu Principal.unity",
+              "Assets/Escenas/01 - Image Target.unity",
+              "Assets/Escenas/02 - Multitarget.unity",
+              "Assets/Escenas/03 - Cylinder Target.unity",
+              "Assets/Escenas/04 - Cloud Recognition.unity",
+              "Assets/Escenas/05 - Barcode.unity",
+              "Assets/Escenas/06 - Model Target.unity",
+              "Assets/Escenas/07 - VuMarks.unity",
+              "Assets/Escenas/08 - Ground Plane.unity",
+              "Assets/Escenas/09 - Mid Air.unity",
+              "Assets/Escenas/10 - Area Target.unity"
             ],
             "dependencyType": 0,
             "icon": null

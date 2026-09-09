@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\GitHub\\p1\\P1\\Library\\PramData\\AndroidApplicationController\\Cache\\com.Unisimon.RAFNAF\\gradle-project\\launcher\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs\\values-bs.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Tokyusk\\.gradle\\caches\\transforms-3\\bc0aca34625fe6e0792c1942a75243fa\\transformed\\core-1.45.0\\res\\values-bs\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,237,287,406,527",
+                        "endColumns": "46,49,118,120,82",
+                        "endOffsets": "236,286,405,526,609"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,160,283,408",
+                        "endColumns": "50,53,122,124,86",
+                        "endOffsets": "101,155,278,403,490"
+                    }
+                }
+            ]
+        }
+    ]
+}

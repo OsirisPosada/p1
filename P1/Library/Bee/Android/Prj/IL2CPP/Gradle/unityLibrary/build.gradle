@@ -12,12 +12,13 @@ apply plugin: 'com.android.library'
 dependencies {
     implementation 'com.google.ar:core:1.45.0'
     implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation(name: 'flashlightlib-release', ext:'aar')
     implementation(name: 'VuforiaEngine', ext:'aar')
 
 }
 
 android {
-    ndkPath "C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK"
+    ndkPath "D:/Unity Hub/2022.3.16f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK"
 
     compileSdkVersion 32
     buildToolsVersion '32.0.0'

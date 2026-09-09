@@ -1,5 +1,6 @@
 using UnityEngine;
 using Vuforia;
+using UnityEditor;
 
 public class SimpleBarcodeScanner : MonoBehaviour
 {

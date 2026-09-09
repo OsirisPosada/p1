@@ -2,6 +2,7 @@ using UnityEngine;
 using Vuforia;
 using static UnityEngine.CullingGroup;
 using static Vuforia.CloudRecoBehaviour;
+using UnityEditor;
 
 public class SimpleCloudRecoEventHandler : MonoBehaviour
 {

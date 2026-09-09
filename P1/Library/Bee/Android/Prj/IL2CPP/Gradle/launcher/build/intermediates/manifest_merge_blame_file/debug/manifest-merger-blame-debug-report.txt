@@ -1,242 +1,239 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.Unisimon.Proyecto1"
+3    package="com.Unisimon.RAFNAF"
 4    android:installLocation="preferExternal"
 5    android:versionCode="1"
 6    android:versionName="0.1" >
 7
 8    <uses-sdk
 9        android:minSdkVersion="29"
-9-->C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+9-->D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 10        android:targetSdkVersion="32" />
-10-->C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+10-->D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 11
 12    <supports-screens
-12-->C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+12-->D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
 13        android:anyDensity="true"
-13-->C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+13-->D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
 14        android:largeScreens="true"
-14-->C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+14-->D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
 15        android:normalScreens="true"
-15-->C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+15-->D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
 16        android:smallScreens="true"
-16-->C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+16-->D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
 17        android:xlargeScreens="true" />
-17-->C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+17-->D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
 18
-19    <uses-permission android:name="android.permission.INTERNET" />
-19-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-67
-19-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-64
-20    <uses-permission android:name="android.permission.CAMERA" />
-20-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-65
-20-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-62
+19    <uses-permission android:name="android.permission.CAMERA" />
+19-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-65
+19-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-62
+20    <uses-permission android:name="android.permission.INTERNET" />
+20-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-67
+20-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-64
 21
-22    <uses-feature android:glEsVersion="0x00030000" />
-22-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-54
-22-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:19-51
-23    <uses-feature
-23-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:5-16:36
-24        android:name="android.hardware.vulkan.version"
-24-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-55
-25        android:required="false" />
-25-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-33
-26    <uses-feature
-26-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-19:36
-27        android:name="android.hardware.camera"
-27-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-47
-28        android:required="true" />
-28-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-33
-29    <uses-feature
-29-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:5-22:36
-30        android:name="android.hardware.camera.autofocus"
-30-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:9-57
-31        android:required="false" />
-31-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-33
-32    <uses-feature
-32-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:5-25:36
-33        android:name="android.hardware.camera.front"
-33-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:9-53
-34        android:required="false" />
-34-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-33
-35    <uses-feature
-35-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:5-28:36
-36        android:name="android.hardware.touchscreen"
-36-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:9-52
-37        android:required="false" />
-37-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-33
-38    <uses-feature
-38-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:5-31:36
-39        android:name="android.hardware.touchscreen.multitouch"
-39-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:9-63
-40        android:required="false" />
-40-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:9-33
-41    <uses-feature
-41-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:5-34:36
-42        android:name="android.hardware.touchscreen.multitouch.distinct"
-42-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:9-72
-43        android:required="false" />
-43-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:9-33
-44
-45    <queries>
-45-->[com.google.ar:core:1.45.0] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:20:5-27:15
-46        <package android:name="com.google.ar.core" />
-46-->[com.google.ar:core:1.45.0] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:21:9-54
-46-->[com.google.ar:core:1.45.0] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:21:18-51
-47        <package android:name="com.android.vending" />
-47-->[com.google.ar:core:1.45.0] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:22:9-55
-47-->[com.google.ar:core:1.45.0] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:22:18-52
-48
-49        <intent>
-49-->[com.google.ar:core:1.45.0] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:24:9-26:18
-50            <action android:name="com.google.android.play.core.install.BIND_INSTALL_SERVICE" />
-50-->[com.google.ar:core:1.45.0] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:25:13-96
-50-->[com.google.ar:core:1.45.0] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:25:21-93
-51        </intent>
-52    </queries>
-53    <!--
-54        Required by Vuforia: Add this permission to access IMU sensors at high rate
-55        for device tracker functionality on Android 12+.
-56    -->
-57    <uses-permission android:name="android.permission.HIGH_SAMPLING_RATE_SENSORS" /> <!-- Required by Vuforia: Add this permission to allow checking of network. -->
-57-->[:VuforiaEngine:] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:16:5-85
-57-->[:VuforiaEngine:] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:16:22-82
-58    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-58-->[:VuforiaEngine:] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:19:5-79
-58-->[:VuforiaEngine:] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:19:22-76
-59
-60    <application
-60-->C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
-61        android:debuggable="true"
-62        android:extractNativeLibs="true"
-62-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:18-50
-63        android:icon="@mipmap/app_icon"
-63-->C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
-64        android:label="@string/app_name" >
-64-->C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
-65        <meta-data
-65-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:9-39:33
-66            android:name="unity.splash-mode"
-66-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-45
-67            android:value="0" />
-67-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:39:13-30
-68        <meta-data
-68-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:9-42:36
-69            android:name="unity.splash-enable"
-69-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-47
-70            android:value="True" />
-70-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:13-33
-71        <meta-data
-71-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:43:9-45:36
-72            android:name="unity.launch-fullscreen"
-72-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:44:13-51
-73            android:value="True" />
-73-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:45:13-33
-74        <meta-data
-74-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:46:9-48:37
-75            android:name="unity.allow-resizable-window"
-75-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-56
-76            android:value="False" />
-76-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:48:13-34
-77        <meta-data
-77-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:49:9-51:50
-78            android:name="notch.config"
-78-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:50:13-40
-79            android:value="portrait|landscape" />
-79-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:51:13-47
-80        <meta-data
-80-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:52:9-54:36
-81            android:name="unity.auto-report-fully-drawn"
-81-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:53:13-57
-82            android:value="true" />
-82-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:54:13-33
-83
-84        <activity
-84-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:56:9-77:20
-85            android:name="com.unity3d.player.UnityPlayerActivity"
-85-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:57:13-66
-86            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
-86-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:58:13-194
-87            android:exported="true"
-87-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:59:13-36
-88            android:hardwareAccelerated="false"
-88-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:60:13-48
-89            android:launchMode="singleTask"
-89-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:61:13-44
-90            android:resizeableActivity="false"
-90-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:62:13-47
-91            android:screenOrientation="fullUser"
-91-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:63:13-49
-92            android:theme="@style/UnityThemeSelector" >
-92-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:64:13-54
-93            <intent-filter>
-93-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:65:13-69:29
-94                <category android:name="android.intent.category.LAUNCHER" />
-94-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:66:17-77
-94-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:66:27-74
-95
-96                <action android:name="android.intent.action.MAIN" />
-96-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:68:17-69
-96-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:68:25-66
-97            </intent-filter>
-98
-99            <meta-data
-99-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:71:13-73:40
-100                android:name="unityplayer.UnityActivity"
-100-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:72:17-57
-101                android:value="true" />
-101-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:73:17-37
-102            <meta-data
-102-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:74:13-76:40
-103                android:name="notch_support"
-103-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:75:17-45
-104                android:value="true" />
-104-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:76:17-37
-105        </activity>
-106
-107        <meta-data
-107-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:79:9-81:40
-108            android:name="com.google.ar.core"
-108-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:80:13-46
-109            android:value="optional" /> <!-- The minimal version code of ARCore APK required for an app using this SDK. -->
-109-->[:unityLibrary] C:\Users\MULTIMEDIA\Desktop\Github pruebas\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:81:13-37
-110        <meta-data
-110-->[com.google.ar:core:1.45.0] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:32:9-34:41
-111            android:name="com.google.ar.core.min_apk_version"
-111-->[com.google.ar:core:1.45.0] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:33:13-62
-112            android:value="241930000" /> <!-- This activity is critical for installing ARCore when it is not already present. -->
-112-->[com.google.ar:core:1.45.0] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:34:13-38
-113        <activity
-113-->[com.google.ar:core:1.45.0] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:36:9-42:80
-114            android:name="com.google.ar.core.InstallActivity"
-114-->[com.google.ar:core:1.45.0] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:37:13-62
-115            android:configChanges="keyboardHidden|orientation|screenSize"
-115-->[com.google.ar:core:1.45.0] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:38:13-74
-116            android:excludeFromRecents="true"
-116-->[com.google.ar:core:1.45.0] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:39:13-46
-117            android:exported="false"
-117-->[com.google.ar:core:1.45.0] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:40:13-37
-118            android:launchMode="singleTop"
-118-->[com.google.ar:core:1.45.0] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:41:13-43
-119            android:theme="@android:style/Theme.Material.Light.Dialog.Alert" />
-119-->[com.google.ar:core:1.45.0] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:42:13-77
-120
-121        <provider
-121-->[:VuforiaEngine:] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:25:9-33:20
-122            android:name="com.vuforia.engine.app.VuforiaContentProvider"
-122-->[:VuforiaEngine:] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:26:13-73
-123            android:authorities="com.Unisimon.Proyecto1.vuforia.share"
-123-->[:VuforiaEngine:] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:27:13-65
-124            android:exported="false"
-124-->[:VuforiaEngine:] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:28:13-37
-125            android:grantUriPermissions="true" >
-125-->[:VuforiaEngine:] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:29:13-47
-126            <meta-data
-126-->[:VuforiaEngine:] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:30:13-32:53
-127                android:name="android.support.FILE_PROVIDER_PATHS"
-127-->[:VuforiaEngine:] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:31:17-67
-128                android:resource="@xml/filepaths" />
-128-->[:VuforiaEngine:] C:\Users\MULTIMEDIA\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:32:17-50
-129        </provider>
-130    </application>
-131
-132</manifest>
+22    <uses-feature
+22-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-14:36
+23        android:name="android.hardware.camera"
+23-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-47
+24        android:required="true" />
+24-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-33
+25    <uses-feature android:name="android.hardware.camera.flash" />
+25-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-66
+25-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:19-63
+26    <uses-feature android:glEsVersion="0x00030000" />
+26-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:5-54
+26-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:19-51
+27    <uses-feature
+27-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-19:36
+28        android:name="android.hardware.vulkan.version"
+28-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-55
+29        android:required="false" />
+29-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-33
+30    <uses-feature
+30-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:5-22:36
+31        android:name="android.hardware.camera.autofocus"
+31-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:9-57
+32        android:required="false" />
+32-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-33
+33    <uses-feature
+33-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:5-25:36
+34        android:name="android.hardware.camera.front"
+34-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:9-53
+35        android:required="false" />
+35-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-33
+36    <uses-feature
+36-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:5-28:36
+37        android:name="android.hardware.touchscreen"
+37-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:9-52
+38        android:required="false" />
+38-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-33
+39    <uses-feature
+39-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:5-31:36
+40        android:name="android.hardware.touchscreen.multitouch"
+40-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:9-63
+41        android:required="false" />
+41-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:9-33
+42    <uses-feature
+42-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:5-34:36
+43        android:name="android.hardware.touchscreen.multitouch.distinct"
+43-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:9-72
+44        android:required="false" />
+44-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:9-33
+45
+46    <queries>
+46-->[com.google.ar:core:1.45.0] C:\Users\Tokyusk\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:20:5-27:15
+47        <package android:name="com.google.ar.core" />
+47-->[com.google.ar:core:1.45.0] C:\Users\Tokyusk\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:21:9-54
+47-->[com.google.ar:core:1.45.0] C:\Users\Tokyusk\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:21:18-51
+48        <package android:name="com.android.vending" />
+48-->[com.google.ar:core:1.45.0] C:\Users\Tokyusk\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:22:9-55
+48-->[com.google.ar:core:1.45.0] C:\Users\Tokyusk\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:22:18-52
+49
+50        <intent>
+50-->[com.google.ar:core:1.45.0] C:\Users\Tokyusk\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:24:9-26:18
+51            <action android:name="com.google.android.play.core.install.BIND_INSTALL_SERVICE" />
+51-->[com.google.ar:core:1.45.0] C:\Users\Tokyusk\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:25:13-96
+51-->[com.google.ar:core:1.45.0] C:\Users\Tokyusk\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:25:21-93
+52        </intent>
+53    </queries>
+54    <!--
+55        Required by Vuforia: Add this permission to access IMU sensors at high rate
+56        for device tracker functionality on Android 12+.
+57    -->
+58    <uses-permission android:name="android.permission.HIGH_SAMPLING_RATE_SENSORS" /> <!-- Required by Vuforia: Add this permission to allow checking of network. -->
+58-->[:VuforiaEngine:] C:\Users\Tokyusk\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:16:5-85
+58-->[:VuforiaEngine:] C:\Users\Tokyusk\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:16:22-82
+59    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+59-->[:VuforiaEngine:] C:\Users\Tokyusk\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:19:5-79
+59-->[:VuforiaEngine:] C:\Users\Tokyusk\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:19:22-76
+60
+61    <application
+61-->D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+62        android:debuggable="true"
+63        android:extractNativeLibs="true"
+63-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:9-41
+64        android:icon="@mipmap/app_icon"
+64-->D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
+65        android:label="@string/app_name"
+65-->D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
+66        android:theme="@style/UnityThemeSelector" >
+66-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:9-50
+67        <meta-data
+67-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:9-43:33
+68            android:name="unity.splash-mode"
+68-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:13-45
+69            android:value="0" />
+69-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:43:13-30
+70        <meta-data
+70-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:44:9-46:36
+71            android:name="unity.splash-enable"
+71-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:45:13-47
+72            android:value="True" />
+72-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-33
+73        <meta-data
+73-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:47:9-49:36
+74            android:name="unity.launch-fullscreen"
+74-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:48:13-51
+75            android:value="True" />
+75-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:49:13-33
+76        <meta-data
+76-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:50:9-52:37
+77            android:name="unity.allow-resizable-window"
+77-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:51:13-56
+78            android:value="False" />
+78-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:52:13-34
+79        <meta-data
+79-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:53:9-55:50
+80            android:name="notch.config"
+80-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:54:13-40
+81            android:value="portrait|landscape" />
+81-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:55:13-47
+82        <meta-data
+82-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:56:9-58:36
+83            android:name="unity.auto-report-fully-drawn"
+83-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:57:13-57
+84            android:value="true" />
+84-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:58:13-33
+85
+86        <activity
+86-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:60:9-77:20
+87            android:name="com.unity3d.player.UnityPlayerActivity"
+87-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:61:13-66
+88            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+88-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:62:13-194
+89            android:exported="true"
+89-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:63:13-36
+90            android:hardwareAccelerated="false"
+90-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:64:13-48
+91            android:launchMode="singleTask"
+91-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:65:13-44
+92            android:resizeableActivity="false"
+92-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:66:13-47
+93            android:screenOrientation="fullUser" >
+93-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:67:13-49
+94            <intent-filter>
+94-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:68:13-72:29
+95                <category android:name="android.intent.category.LAUNCHER" />
+95-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:69:17-77
+95-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:69:27-74
+96
+97                <action android:name="android.intent.action.MAIN" />
+97-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:71:17-69
+97-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:71:25-66
+98            </intent-filter>
+99
+100            <meta-data
+100-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:74:13-76:40
+101                android:name="notch_support"
+101-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:75:17-45
+102                android:value="true" />
+102-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:76:17-37
+103        </activity>
+104
+105        <meta-data
+105-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:79:9-81:40
+106            android:name="com.google.ar.core"
+106-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:80:13-46
+107            android:value="optional" /> <!-- The minimal version code of ARCore APK required for an app using this SDK. -->
+107-->[:unityLibrary] D:\GitHub\p1\P1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:81:13-37
+108        <meta-data
+108-->[com.google.ar:core:1.45.0] C:\Users\Tokyusk\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:32:9-34:41
+109            android:name="com.google.ar.core.min_apk_version"
+109-->[com.google.ar:core:1.45.0] C:\Users\Tokyusk\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:33:13-62
+110            android:value="241930000" /> <!-- This activity is critical for installing ARCore when it is not already present. -->
+110-->[com.google.ar:core:1.45.0] C:\Users\Tokyusk\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:34:13-38
+111        <activity
+111-->[com.google.ar:core:1.45.0] C:\Users\Tokyusk\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:36:9-42:80
+112            android:name="com.google.ar.core.InstallActivity"
+112-->[com.google.ar:core:1.45.0] C:\Users\Tokyusk\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:37:13-62
+113            android:configChanges="keyboardHidden|orientation|screenSize"
+113-->[com.google.ar:core:1.45.0] C:\Users\Tokyusk\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:38:13-74
+114            android:excludeFromRecents="true"
+114-->[com.google.ar:core:1.45.0] C:\Users\Tokyusk\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:39:13-46
+115            android:exported="false"
+115-->[com.google.ar:core:1.45.0] C:\Users\Tokyusk\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:40:13-37
+116            android:launchMode="singleTop"
+116-->[com.google.ar:core:1.45.0] C:\Users\Tokyusk\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:41:13-43
+117            android:theme="@android:style/Theme.Material.Light.Dialog.Alert" />
+117-->[com.google.ar:core:1.45.0] C:\Users\Tokyusk\.gradle\caches\transforms-3\bc0aca34625fe6e0792c1942a75243fa\transformed\core-1.45.0\AndroidManifest.xml:42:13-77
+118
+119        <provider
+119-->[:VuforiaEngine:] C:\Users\Tokyusk\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:25:9-33:20
+120            android:name="com.vuforia.engine.app.VuforiaContentProvider"
+120-->[:VuforiaEngine:] C:\Users\Tokyusk\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:26:13-73
+121            android:authorities="com.Unisimon.RAFNAF.vuforia.share"
+121-->[:VuforiaEngine:] C:\Users\Tokyusk\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:27:13-65
+122            android:exported="false"
+122-->[:VuforiaEngine:] C:\Users\Tokyusk\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:28:13-37
+123            android:grantUriPermissions="true" >
+123-->[:VuforiaEngine:] C:\Users\Tokyusk\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:29:13-47
+124            <meta-data
+124-->[:VuforiaEngine:] C:\Users\Tokyusk\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:30:13-32:53
+125                android:name="android.support.FILE_PROVIDER_PATHS"
+125-->[:VuforiaEngine:] C:\Users\Tokyusk\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:31:17-67
+126                android:resource="@xml/filepaths" />
+126-->[:VuforiaEngine:] C:\Users\Tokyusk\.gradle\caches\transforms-3\0c3f28206c338fba002b77ab22a65b6b\transformed\VuforiaEngine\AndroidManifest.xml:32:17-50
+127        </provider>
+128    </application>
+129
+130</manifest>

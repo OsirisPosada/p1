@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.1">
+        <CylinderTarget name="Spring" version="3.0" targetId="933a525becd5446a86856be4a89d8358" sideLength="0.110000" topDiameter="0.057300" bottomDiameter="0.057300" sideImage="Spring.Body_scaled.jpg" topImage="Spring.Top_scaled.jpg" bottomImage="Spring.Bottom_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>

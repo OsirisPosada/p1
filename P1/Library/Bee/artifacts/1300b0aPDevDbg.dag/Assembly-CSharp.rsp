@@ -322,6 +322,7 @@
 "Assets/Prefabricados/Transicion/TransicionControlador.cs"
 "Assets/Scripts/BarcodeSoundPlayer.cs"
 "Assets/Scripts/BateriaUI.cs"
+"Assets/Scripts/Billboard.cs"
 "Assets/Scripts/CambioDeEscenas.cs"
 "Assets/Scripts/ControladorLinterna.cs"
 "Assets/Scripts/ControlBateria.cs"

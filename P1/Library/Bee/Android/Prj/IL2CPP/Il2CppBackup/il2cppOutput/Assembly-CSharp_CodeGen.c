@@ -27,6 +27,10 @@ extern void BateriaUI_Start_mAD9622FC1D9C90E1FC0338A7E48F72B84239D544 (void);
 extern void BateriaUI_Update_m4071C16AD289A4C66D84D5AD30DCB98D649A299D (void);
 extern void BateriaUI_ActualizarBateriaUI_mD7A0F54C1FBC31C5B5A85C88B05FC80159ADA2C3 (void);
 extern void BateriaUI__ctor_mFA11356AAEB75850581D511F6F38FA3E92916C2B (void);
+extern void BillboardAreaTargetFijoPuro_Start_mE6BECA7817481E8218E7F5F5C981297C334ACB30 (void);
+extern void BillboardAreaTargetFijoPuro_LateUpdate_mEB1ED5732126FEA3FBDD8C57F1FC3A2CA3FF0240 (void);
+extern void BillboardAreaTargetFijoPuro_BuscarCamara_m6EF56F88080F368DCB0EC09719C9D91E4A284F92 (void);
+extern void BillboardAreaTargetFijoPuro__ctor_mEAFF05C4C44399E3C648EA5E1B7F050017001819 (void);
 extern void CambioDeEscenas_CargarEscena_m7A04483BFCE5C6DA59B8A15EFE17055C658195A7 (void);
 extern void CambioDeEscenas_CambiarConSonido_mD00F94F6A6B2D56CB1D7797960885BBEC60D2DA6 (void);
 extern void CambioDeEscenas__ctor_mB1D2C8C324A95A60923FE15FEF54F6413E46649A (void);
@@ -322,7 +326,7 @@ extern void U3CWarpTextU3Ed__8_MoveNext_mCE7A826C5E4854C2C509C77BD18F5A9B6D691B0
 extern void U3CWarpTextU3Ed__8_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mD80368E9B7E259311C03E406B75161ED6F7618E3 (void);
 extern void U3CWarpTextU3Ed__8_System_Collections_IEnumerator_Reset_m07746C332D2D8CE5DEA59873C26F2FAD4B369B42 (void);
 extern void U3CWarpTextU3Ed__8_System_Collections_IEnumerator_get_Current_m71D7F84D9DEF63BEC6B44866515DDCF35B142A19 (void);
-static Il2CppMethodPointer s_methodPointers[310] = 
+static Il2CppMethodPointer s_methodPointers[314] = 
 {
 	MyAwesomeFlashlightAndroid_Start_mC3D9960698A70D4FC03AB6B249631704389FBB8A,
 	MyAwesomeFlashlightAndroid_TurnOn_mABE4C13C6383EC6938695EF177B971C611231319,
@@ -339,6 +343,10 @@ static Il2CppMethodPointer s_methodPointers[310] =
 	BateriaUI_Update_m4071C16AD289A4C66D84D5AD30DCB98D649A299D,
 	BateriaUI_ActualizarBateriaUI_mD7A0F54C1FBC31C5B5A85C88B05FC80159ADA2C3,
 	BateriaUI__ctor_mFA11356AAEB75850581D511F6F38FA3E92916C2B,
+	BillboardAreaTargetFijoPuro_Start_mE6BECA7817481E8218E7F5F5C981297C334ACB30,
+	BillboardAreaTargetFijoPuro_LateUpdate_mEB1ED5732126FEA3FBDD8C57F1FC3A2CA3FF0240,
+	BillboardAreaTargetFijoPuro_BuscarCamara_m6EF56F88080F368DCB0EC09719C9D91E4A284F92,
+	BillboardAreaTargetFijoPuro__ctor_mEAFF05C4C44399E3C648EA5E1B7F050017001819,
 	CambioDeEscenas_CargarEscena_m7A04483BFCE5C6DA59B8A15EFE17055C658195A7,
 	CambioDeEscenas_CambiarConSonido_mD00F94F6A6B2D56CB1D7797960885BBEC60D2DA6,
 	CambioDeEscenas__ctor_mB1D2C8C324A95A60923FE15FEF54F6413E46649A,
@@ -635,7 +643,7 @@ static Il2CppMethodPointer s_methodPointers[310] =
 	U3CWarpTextU3Ed__8_System_Collections_IEnumerator_Reset_m07746C332D2D8CE5DEA59873C26F2FAD4B369B42,
 	U3CWarpTextU3Ed__8_System_Collections_IEnumerator_get_Current_m71D7F84D9DEF63BEC6B44866515DDCF35B142A19,
 };
-static const int32_t s_InvokerIndices[310] = 
+static const int32_t s_InvokerIndices[314] = 
 {
 	7649,
 	7649,
@@ -644,6 +652,10 @@ static const int32_t s_InvokerIndices[310] =
 	7649,
 	7649,
 	5999,
+	7649,
+	7649,
+	7649,
+	7649,
 	7649,
 	7649,
 	7649,
@@ -952,7 +964,7 @@ IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	310,
+	314,
 	s_methodPointers,
 	0,
 	NULL,

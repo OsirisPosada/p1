@@ -21,5 +21,7 @@ unityLibrary/src/main/assets/Vuforia/VuforiaMars_Images.dat
 unityLibrary/src/main/assets/Vuforia/VuforiaMars_Images.xml
 unityLibrary/src/main/assets/Vuforia/VuforiaMars_VuMark.dat
 unityLibrary/src/main/assets/Vuforia/VuforiaMars_VuMark.xml
+unityLibrary/src/main/assets/Vuforia/VuMarkDB.dat
+unityLibrary/src/main/assets/Vuforia/VuMarkDB.xml
 unityLibrary/src/main/jniLibs/arm64-v8a/libil2cpp.so
 unityLibrary/src/main/jniLibs/arm64-v8a/libmain.so
